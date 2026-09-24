@@ -4,4 +4,4 @@ dist/
 build/
 .vite/
 *.log
-.DS_Store
+.DS_Storegit 
